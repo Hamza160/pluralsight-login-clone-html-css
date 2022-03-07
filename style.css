@@ -235,3 +235,9 @@ h6 {
     padding-top: 1rem;
   }
 }
+
+@media (max-width: 600px) {
+  #signin .secondary-btn {
+    font-size: 13px;
+  }
+}
